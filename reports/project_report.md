@@ -12,13 +12,6 @@
 <p style="font-size: 20px; margin: 50px; font-weight: bold; line-height: 30px"> Panorama Mosaic Stitching  </p>
 </div>
 
-<div align=center style="margin: 100px">
-<p style="font-size:15px;"> Lei Xu </p>
-</div>
-
-<div align=center style="margin: 100px">
-<p style="font-size:15px;"> March 25 2019 </p>
-</div>
 
 <div style="page-break-after: always"></div>
 
